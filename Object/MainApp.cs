@@ -7,7 +7,7 @@ namespace Object
             object a =123;
             object b =3.141592653689793238462643383279m;
             object c =true;
-            object d ="æ»≥Á«œººø‰";
+            object d ="?????";
 
             Console.WriteLine(a);
             Console.WriteLine(b);
